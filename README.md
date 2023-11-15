@@ -14,6 +14,3 @@ Empties recycle bin without having to confirm it.
 - Will close automatically, once closed, the recycle bin should be emptied.
 
 *Warning:* **Will not prompt you to delete files, only use this if you are sure you want files in the recycle bin to be deleted.**
-
-## Bugs
-- Currently doesn't work a simple double click (intended use)
