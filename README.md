@@ -16,7 +16,7 @@ Empties recycle bin without having to confirm it.
 
 ## How to remote sign Windows
 1. Open PowerShell as administrator
-2. Type in the following command: Set-ExecutionPolicy RemoteSigned
+2. Type in the following command: *Set-ExecutionPolicy RemoteSigned*
 3. Now you should be able to run the script. 
 
 *Warning:* **Will not prompt you to delete files, only use this if you are sure you want files in the recycle bin to be deleted.**
