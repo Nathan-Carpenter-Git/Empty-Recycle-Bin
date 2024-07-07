@@ -10,10 +10,6 @@ Empties recycle bin without having to confirm it.
 - Supports only Windows operating systems.
 - Windows system is remote signed, if it is not, the script will not run. See "How to remote sign Windows" below.
 
-## How to use
-- Right-click and click run with Powershell
-- Will close automatically, once closed, the recycle bin should be emptied.
-
 ## How to remote sign Windows
 1. Open PowerShell as administrator
 2. Type in the following command: *Set-ExecutionPolicy RemoteSigned*
